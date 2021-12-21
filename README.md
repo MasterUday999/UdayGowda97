@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UdayGowda97
-- 👀 I’m interested in coasding
+- 👀 I’m interested in coading
 - 🌱 I’m currently learning  web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (udayshylendra@gmail.com)
